@@ -1,0 +1,20 @@
+{
+    "name": "phata/telebot",
+    "description": "An app for starting a Telegram bot.",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Koala Yeung",
+            "email": "koalay@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "require": {
+        "symfony/dotenv": "^4.0",
+        "monolog/monolog": "^1.23"
+    }
+}
