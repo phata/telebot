@@ -15,6 +15,7 @@
     },
     "require": {
         "symfony/dotenv": "^4.0",
-        "monolog/monolog": "^1.23"
+        "monolog/monolog": "^1.23",
+        "phata/telecore": "^0.1.0"
     }
 }
